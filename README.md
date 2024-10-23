@@ -82,7 +82,7 @@ To run the application locally, follow these steps:
 
 ## Deployment
 
-This application is also deployed on [Streamlit Cloud](https://streamlit.io/cloud). You can access the live version of the app at [your_deployed_app_link].
+This application is also deployed on [Streamlit Cloud](https://streamlit.io/cloud). You can access the live version of the app at [streamlit app](https://pdf-to-text-jz36s82wgqtjd4i8vwwyt7.streamlit.app/).
 
 ### Deploying on Streamlit Cloud
 
